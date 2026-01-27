@@ -1,0 +1,48 @@
+h1{
+    /* color:red; keyword/text */
+     /* 0 to 9---- a to f hex code */
+     /* #f00; short hex code */
+     color:rgb(43, 179, 77);/* rgb(red, green, blue) 0 to 255 */
+     text-align: center;
+     font-size: 40px;
+}
+
+
+
+/*Psition */
+
+.relative_parent{
+    border: 1px solid red;
+    height: 125px;
+
+}
+.relative{
+    border: 1px solid yellow;
+    height: 110px;
+    width: 400px
+    position: relation;
+}
+
+
+
+.fixed{
+    position: fixed;
+    top: 100px;
+    right: 100px;
+}
+
+/* online font */
+.online_font{
+    font-family: "Old Standard TT", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+ 
+@font-face{
+    src: url('../Allura/Allura-Regular.ttf');
+    font-family:"allura";
+}
+
+.offline font{
+    font-family:"allura";
+}

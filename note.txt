@@ -1,0 +1,29 @@
+
+already github repoot
+===================\
+git clone url
+gi status
+git add ./ git add "filename"
+git commit -m "message"
+git push / git push =u origin main/master
+git branch
+git checkout -b branch_name (new branch)
+
+
+local crate floder and new repo
+=========
+git init
+git remote add origin url(github repo) 
+git remote show origin
+======
+git statusgit
+git add.
+git comit -m "message"
+git push
+
+ctrl + z (undo)
+ctrl + y (redo)
+ctrl + x (cut)
+ctrl + v (paste)
+ctrl + d (same word select)
+alt  +  mouse click (same time write and backspace)
