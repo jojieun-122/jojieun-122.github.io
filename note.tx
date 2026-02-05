@@ -1,0 +1,7 @@
+git clone url
+git status
+git add . 
+git commit -m "messeage"
+git push -u  origin main
+git branch 
+git checkout -b branch_name
